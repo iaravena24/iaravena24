@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner_ingrid.svg" alt="¡Hola! Soy Ingrid, explorando el mundo del Machine Learning 🚀" width="100%">
+</p>
 ## Hi there 👋
 
 <!--
